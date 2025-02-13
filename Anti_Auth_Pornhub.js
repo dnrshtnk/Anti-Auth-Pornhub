@@ -7,8 +7,8 @@
 // @icon         https://di.phncdn.com/www-static/favicon.ico
 // @author       Munez D
 // @match        *://*.pornhub.com/*
-// @downloadURL  https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti%20Auth%20Pornhub.user.js
-// @updateURL    https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti%20Auth%20Pornhub.user.js
+// @downloadURL  https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti_Auth_Pornhub.js
+// @updateURL    https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti_Auth_Pornhub.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @connect      pornhub.com
