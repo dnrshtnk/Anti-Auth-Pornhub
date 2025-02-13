@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anti Auth Pornhub Old
-// @namespace    https://github.com/dnrshtnk/
-// @homepage     https://github.com/dnrshtnk/
+// @namespace    https://github.com/dnrshtnk/Anti-Auth-Pornhub
+// @homepage     https://github.com/dnrshtnk/Anti-Auth-Pornhub
 // @version      1.0.0
 // @description  Anti Auth Pornhub Old
 // @icon         https://di.phncdn.com/www-static/favicon.ico
