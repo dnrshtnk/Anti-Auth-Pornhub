@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Anti Auth Pornhub New
+// @name         Anti Auth Pornhub 2025
 // @namespace    https://github.com/dnrshtnk/Anti-Auth-Pornhub
 // @homepage     https://github.com/dnrshtnk/Anti-Auth-Pornhub
 // @version      1.0.3
-// @description  Anti Auth Pornhub New
+// @description  Anti Auth Pornhub
 // @icon         https://di.phncdn.com/www-static/favicon.ico
 // @author       Munez D
 // @match        *://*.pornhub.com/*
-// @downloadURL  https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti_Auth_Pornhub.js
-// @updateURL    https://github.com/dnrshtnk/Anti-Auth-Pornhub/blob/main/Anti_Auth_Pornhub.js
+// @downloadURL  https://raw.githubusercontent.com/dnrshtnk/Anti-Auth-Pornhub/refs/heads/main/Anti_Auth_Pornhub.js
+// @updateURL    https://raw.githubusercontent.com/dnrshtnk/Anti-Auth-Pornhub/refs/heads/main/Anti_Auth_Pornhub.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @connect      pornhub.com
