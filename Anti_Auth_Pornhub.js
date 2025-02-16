@@ -2,7 +2,7 @@
 // @name         Anti Auth Pornhub 2025
 // @namespace    https://github.com/dnrshtnk/Anti-Auth-Pornhub
 // @homepage     https://github.com/dnrshtnk/Anti-Auth-Pornhub
-// @version      1.0.3
+// @version      1.0.4
 // @description  Anti Auth Pornhub
 // @icon         https://di.phncdn.com/www-static/favicon.ico
 // @author       Munez D
