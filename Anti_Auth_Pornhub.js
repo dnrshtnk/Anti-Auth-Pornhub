@@ -19,7 +19,7 @@
 (function() {
     'use strict';
 
-GM_addStyle('.isOpenMTubes { overflow: visible !important; }');
+GM_addStyle('.isOpenMTubes { overflow: visible !important; position: relative !important;}');
 GM_addStyle('.topSectionGrid{display: block !important; }');
 GM_addStyle('#ageDisclaimerOverlay,#ageVerificationOverlay{backdrop-filter: blur(0px) !important; -webkit-backdrop-filter: blur(0px) !important; };');
 GM_addStyle('.is-blurred #mobileContainer #videoContainer [class^=mhp1138_videoPoster]{filter: blur(0px) !important;}');
